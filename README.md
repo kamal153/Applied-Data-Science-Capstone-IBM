@@ -2,5 +2,5 @@
 
 ## Offered By IBM
 
-Applied Data Science Specialization
+Applied Data Science Specialization \
 IBM Data Science Professional Certificate
